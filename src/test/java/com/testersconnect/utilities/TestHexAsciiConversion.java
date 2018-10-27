@@ -63,4 +63,10 @@ public class TestHexAsciiConversion {
 		System.out.println("Demo Test");
 	}
 	
+	@Test
+
+	public void demoTest2()
+	{
+		System.out.println("This is a demo test and does not validate anything, just added to verify the junit reports");
+	}
 }
