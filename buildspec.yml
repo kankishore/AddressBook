@@ -11,4 +11,4 @@ phases:
       - mvn package
 artifacts:
   files:
-    - **/*.war
+    - arn:aws:kms:ap-south-1:006655474157:alias/aws/s3
